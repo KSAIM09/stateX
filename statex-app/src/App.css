@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+select {
+  height: 40px;
+  margin: 10px;
+}
+.paragraph {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+.city {
+  font-size: 1.3em; /* Adjust the font size as needed */
+  color: black;
+}
+.state-country {
+  color: grey;
+}
